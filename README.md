@@ -1,7 +1,7 @@
 # Laboratorio Virtual #1 -Fundamentos de Programacion.
 En el siguiente repositorio encontraremos la solución y codificación de un problema de programación donde pondremos en práctica todo lo aprendido en el curso haciendo uso de la programación estructurada en el lenguaje de programación C#
 
-## Ejercicio #4
+## Ejercicio #4 FASHION STORE 🛒👔👗
 - Para una tienda de ropa femenina se requiere un programa que:
 - Mediante ciclos permita ingresar por consola n número de productos y sus valores.
 - Debe calcular y mostrar en pantalla el subtotal, IVA y valor total a pagar.
