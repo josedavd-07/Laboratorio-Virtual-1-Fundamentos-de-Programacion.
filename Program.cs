@@ -28,7 +28,7 @@
   |  - Nota: el descuento se evalúa y se hace sobre el subtotal o valor neto.                    |
   |______________________________________________________________________________________________|
 */
-
+// Hola esta es una revision que hice el dia 20/03/2024
 
 using System;
 using System.Collections.Generic;
